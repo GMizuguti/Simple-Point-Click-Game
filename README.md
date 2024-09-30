@@ -10,8 +10,8 @@ A tarefa pediu que modificássemos o código JavaScript para o jogo ser controla
 O código original que nos foi fornecido foi retirado de http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/
 
 
-How to Run
+# How to Run
 Download the code, put everything inside a folder and open the index.html file
 
-Como Rodar
+# Como Rodar
 Baixe o codigo, insira todos os arquivos em uma pasta e abra index.html
