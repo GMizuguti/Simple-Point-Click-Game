@@ -8,3 +8,10 @@ The original code provided to us was retrieved from http://www.lostdecadegames.c
 Esta foi uma tarefa para minha aula de Desenvolvimento Web no Lado do Cliente do Centennial College.
 A tarefa pediu que modificássemos o código JavaScript para o jogo ser controlado pelo mouse ao invés das teclas de seta
 O código original que nos foi fornecido foi retirado de http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/
+
+
+How to Run
+Download the code, put everything inside a folder and open the index.html file
+
+Como Rodar
+Baixe o codigo, insira todos os arquivos em uma pasta e abra index.html
